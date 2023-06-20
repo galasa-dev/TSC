@@ -8,16 +8,16 @@
 - Meeting cadence
 
 ## Attendees
-John Mertic
-Yarille Kilborn
-Vibhore Agarwal
-Michelle Harris
-James Davies
-Aaron Jhaj
-Svaas Kyriacou
-Eamonn Mansour
-Will Yates
-Louisa Seers
+* John Mertic
+* Yarille Kilborn
+* Vibhore Agarwal
+* Michelle Harris
+* James Davies
+* Aaron Jhaj
+* Svaas Kyriacou
+* Eamonn Mansour
+* Will Yates
+* Louisa Seers
 
 ## Minutes
 * Introductions were given by all attendees

@@ -39,7 +39,7 @@ Have we followed through with Galasa Slack Channel? Is it now closed?
 - Will to email everybody individually and freeze new messages so that we force people to move over.
 - TSC did vote and get quorum to officially move to OMP Slack, just needs to move officially.
 
-OMP and IBM Cloud - what is the progress?
+Issue OMP and IBM Cloud (https://github.com/galasa-dev/TSC/issues/15) - what is the progress?
 - Currently the team have moved from the IBM internal cloud officially, however they have had to split the infrastructure in the meantime before we get official confirmation that we can move.
 - Louisa to ask John Mertic what the latest is on the IBM Cloud provisioning.
 
@@ -66,7 +66,7 @@ What are the development team working on? See [status](./2023-121-team-status.pd
 - Start of the next iteration is next week.
 
 Blockers to delivery
-- 3270 resource available is vague – good to details as to what that means and how we can get access. That is blocking Galasa moving the test infrastructure to within the IBM firewall.
+- https://github.com/galasa-dev/TSC/issues/16 - 3270 resource available is vague – good to details as to what that means and how we can get access. That is blocking Galasa moving the test infrastructure to within the IBM firewall.
 - Louisa to have an update on the OMP Mainframe for next TSC meetings.
 
 AOB

@@ -54,7 +54,7 @@ Eclipse Plug-In - what is the future of the plug-in? Decide if we get quorum.
 - Team will have to make small changes in a number of places to remove the plug-in, for example build processes and documentation.
 - After the meeting, Mike C wrote up the arguments for and against in a document [here](./2023-11-21-why-drop-eclipse.md) 
 
-What are the development team working on? See [status](./2023-121-team-status.pdf)
+What are the development team working on? See [status](./2023-11-21-team-status.pdf)
 - Docs: restructured docs to be more command-line centric; and Eclipse docs separated from the CLI docs.
 - Video on the CLI around developing test cases. Installing, setting up, creating a test, building it, examining it, running locally and then adding to automation.
 - Video on the Configuration Property Store around how to install Ecosystem, and how to configure properties.

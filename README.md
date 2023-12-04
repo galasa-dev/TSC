@@ -19,3 +19,8 @@ TSC Voting Members:
 - Roger Brooks
 - Michelle Harris
 - Dom Starkey - Alternate Voting Rep to Michelle
+
+TSC Non-Voting Members:
+- Fiona Ampofo
+- Holly Hunt
+- Caroline McNamara

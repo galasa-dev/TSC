@@ -24,3 +24,8 @@ TSC Non-Voting Members:
 - Fiona Ampofo
 - Holly Hunt
 - Caroline McNamara
+
+TSC Emerti
+<details>
+  <summary>List of Names</summary>
+- Dharmendra Mahanty

@@ -22,10 +22,12 @@ TSC Voting Members:
 
 <details>
   <summary>TSC Non-Voting Members</summary>
-Fiona Ampofo
-Holly Hunt
-Caroline McNamara
+- Fiona Ampofo
+- Holly Hunt
+- Caroline McNamara
+</details>
 
 <details>
   <summary>TSC Emerti</summary>
-Dharmendra Mahanty
+- Dharmendra Mahanty
+</details>

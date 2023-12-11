@@ -20,12 +20,12 @@ TSC Voting Members:
 - Michelle Harris
 - Dom Starkey - Alternate Voting Rep to Michelle
 
-TSC Non-Voting Members:
-- Fiona Ampofo
-- Holly Hunt
-- Caroline McNamara
-
-TSC Emerti
 <details>
-  <summary>List of Names</summary>
-- Dharmendra Mahanty
+  <summary>TSC Non-Voting Members</summary>
+Fiona Ampofo
+Holly Hunt
+Caroline McNamara
+
+<details>
+  <summary>TSC Emerti</summary>
+Dharmendra Mahanty

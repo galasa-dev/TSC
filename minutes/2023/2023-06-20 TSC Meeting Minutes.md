@@ -1,5 +1,7 @@
 # Galasa TSC Kickoff Meeting 20th June 1500
 
+## Recording: [Here](https://zoom.us/rec/share/0c37XvNJALrwN-U1JpceyVD9ifleqpWhbfmHqTTAvev5yLN3mM2c_U9CRBSLqtdT.Gg4uHMsiCfco973m)
+
 ## Agenda
 - Welcome and intros
 - Role of the TSC

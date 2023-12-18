@@ -1,5 +1,7 @@
 # 21-11-2023 TSC Meeting Minutes
 
+## Recording: [Here](https://zoom.us/rec/share/W5X8Jn4CRJbzhe4rhTuTY_tSU3tgTb-kHQnrVd6Iuo0h6Ota1kBGx2yhDOoZouA5.ZD5xQodYjlNQme0c)
+
 ## Agenda
 
 - Galasa publicity (GSE UK feedback, GSE Virtual, blogs etc.)

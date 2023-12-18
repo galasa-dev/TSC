@@ -1,5 +1,7 @@
 # 12-09-2023 Galasa TSC Meeting Minutes
 
+## Recording: [Here](https://zoom.us/rec/share/ABwqTIaW2My8Ll7XWYqQV6JjiwT3Ac2gHaJNO3u4Rp70kysjkUir08Pr4ddihjzf.cPdmWMcqYwj1zsGJ)
+
 ## Agenda
 
 - Announcement of Galasa - Press Release etc.

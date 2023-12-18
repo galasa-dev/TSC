@@ -1,5 +1,7 @@
 # Galasa TSC Meeting 15th August 2023
 
+## Recording: [Here](https://zoom.us/rec/share/X1Tci9U38-LNfsY3cyYEmim5urln7-E0Nr-dYaJ7R3d3gaKwq9GdZrzxHXR055f3.5__1c1Eqb4E-5i1d)
+
 ## Agenda
 
 - Announcement of Galasa by OMP planning

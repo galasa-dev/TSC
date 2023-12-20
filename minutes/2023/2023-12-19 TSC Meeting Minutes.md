@@ -1,5 +1,7 @@
 # Galasa TSC Meeting 19th December 2023
 
+## Recording: [Here](https://zoom.us/rec/share/1I8LxWD5eHlaBkfacUAZmi8u3LsyWdwkqM6LoRBrl5k-tKwotdV_Cjc-mwHHvP-E.KidvQdVyK6KenaRP)
+
 ## Agenda
 - Publicity - anything to celebrate in the last month?
 - Where we can store documentation?

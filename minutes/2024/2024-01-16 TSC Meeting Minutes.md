@@ -1,6 +1,6 @@
 # Galasa TSC Meeting 16th January 2024
 
-## Recording: [Here]()
+## Recording: [Here](https://zoom.us/rec/share/4AQKL-9FrGYFaGkC2icl7wEZ5SrDNEHlwERN5wTujz1dkiUNRmPbuwPbR_ArvKxT.VAWPUf_E9XkrLIqn)
 
 ## Agenda
 - High level roadmap for 2024 (link to follow)
@@ -28,7 +28,7 @@ Roadmap
 * Suggestion to add issue numbers on the roadmap to encourage openness so that we can cross reference the roadmap to Github issues.
 * Discussion about the Eclipse plug-in, agreement that we have the CLI which has parity of functionality.
 
-Goals for 2024
+Goals for 2024 [link](https://github.com/galasa-dev/TSC/blob/main/minutes/2024/Galasa%20TSC%20Objectives%20for%202024.docx)
 * Louisa walked through the goals, mission, and vision for 2024.
 * Moving to Github Actions Pipelines which hasn't been discussed properly. Intention behind that was to not reply on the Github monitor which has been quite unstable since starting in the New Year.
 * Choices - moving where the Tekton builds happen into the cluster in the 'Plan A' account, or we could utilise Github Actions. It gives us some good examples beyond Maven repository. It's not as reliable as we need it to be, and the builds that happen in the IBM firewall aren't useful because there isn't transparency

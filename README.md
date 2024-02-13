@@ -1,10 +1,18 @@
+# Galasa Community
+
 Galasa is an open-source project, under the Open Mainframe Project.
 
 This Github page is to store the output of meeting minutes and agenda for Galasa TSC meetings.
 
+## Communication Channels
+
 If you want more information, join our Slack channel: [Link to Slack Channel](https://openmainframeproject.slack.com/join/shared_invite/zt-1x1bqpv1f-4Sm4c~XHsvrC~vkaS1kq_Q#/shared-invite/email) and join #galasa-tsc
 
+### Calendar
+
 To find the Galasa calendar, please click [here](https://lists.openmainframeproject.org/g/galasa-discussion/calendar)
+
+## TSC Members
 
 TSC Voting Members:
 - Louisa Seers - Chairperson

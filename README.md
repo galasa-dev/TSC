@@ -6,7 +6,15 @@ This Github page is to store the output of meeting minutes and agenda for Galasa
 
 ## Communication Channels
 
-If you want more information, join our Slack channel: [Link to Slack Channel](https://openmainframeproject.slack.com/join/shared_invite/zt-1x1bqpv1f-4Sm4c~XHsvrC~vkaS1kq_Q#/shared-invite/email) and join #galasa-tsc
+### Slack Channels
+
+The Galasa community uses Slack as the primary means of interacting to facilitate active collaboration through the following channels.
+
+Register an account with Slack at https://slack.openmainframeproject.org
+
+* \#galasa-users - This channel is for users to ask questions, look for help and interact with each other.
+* \#galasa-tsc - Ask questions or discuss topics with the Technical Steering Committee
+* \#galasa-dev - This is for the development team to discuss ongoing development.
 
 ### Calendar
 
@@ -39,3 +47,9 @@ TSC Voting Members:
   <summary>TSC Emerti</summary>
 - Dharmendra Mahanty
 </details>
+
+## Contribute
+
+### Submit an issue
+
+You can submit an issue (Bug or Feature) on Galasa in general at https://github.com/galasa-dev/projectmanagement/issues/new/choose.

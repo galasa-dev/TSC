@@ -5,13 +5,13 @@
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Galasa** **open source project, which has been established as Galasa** **a Series of LF projects, LLC (the “project”).  LF projects, LLC (“LF projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 
 1. Mission and Scope of the project
-    1. The mission of the project is to to enable test automation for z/OS and z/OS powered hybrid cloud applications.
+    1. The mission of the project is to to enable deep integration testing for z/OS powered hybrid cloud applications.
     2. The scope of the project includes collaborative development under the project License (as defined herein) supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project.
 2. Technical Steering Committee
     1. The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source project. 
     2. The TSC voting members are initially selected by a vote of the project’s Committers. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person. 
     3. TSC projects generally will involve Contributors and Committers. The TSC may adopt or modify roles so long as the roles are documented in the github.com/galasa-dev/TSC README file. Unless otherwise documented: 
-        1. Contributors include anyone in the technical community that contributes code, documentation, or other artifacts to the project; 
+        1. Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the project; 
         2. Committers are Contributors who have earned the ability to modify (“commit”) source code, documentation or other technical artifacts in a project’s repository; and
         3. A Contributor may become a Committer by a majority approval of the existing Committers. A Committer may be removed by a majority approval of the other existing Committers.
     4. Participation in the project through becoming a Contributor and Committer is open to anyone so long as they abide by the terms of this Charter. 
@@ -28,7 +28,6 @@ This Charter sets forth the responsibilities and procedures for technical contri
         8. discussions, seeking consensus, and where necessary, voting on technical matters relating to the code base that affect multiple projects; and
         9. coordinating any marketing, events, or communications regarding the project.
 3. TSC Voting
-    0. We need a definition of a voting member.  Are they committers, committers + people elected as voting members.  This should force us to go through our list of committers and ensure we are happy with the list
     1. While the project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the project forward, the voting members of the TSC will vote on a one vote per voting member basis.
     2. Quorum for TSC meetings requires at least fifty percent of all voting members of the TSC to be present. The TSC may continue to meet if quorum is not met but will be prevented from making any decisions at the meeting.
     3. Except as provided in Section 7.iii. and 8.i, decisions by vote at a meeting require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting require a majority vote of all voting members of the TSC.

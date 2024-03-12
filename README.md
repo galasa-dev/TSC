@@ -38,9 +38,7 @@ TSC Voting Members:
 
 <details>
   <summary>TSC Non-Voting Members</summary>
-- Fiona Ampofo
-- Holly Hunt
-- Caroline McNamara
+  Fiona Ampofo, Holly Hunt, Caroline McNamara
 </details>
 
 <details>

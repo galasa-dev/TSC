@@ -1,4 +1,4 @@
-# Agenda for Galasa TSC 8 April 2024
+# Meeting Minutes for Galasa TSC 8 April 2024
 
 Recording to be made available soon.
 

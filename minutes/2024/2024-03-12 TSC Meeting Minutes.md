@@ -1,4 +1,4 @@
-# Agenda for Galasa TSC 12 March 2024
+# Meeting Minutes for Galasa TSC 12 March 2024
 
 Recording to be made available soon.
 

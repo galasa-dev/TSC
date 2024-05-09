@@ -1,8 +1,8 @@
 # Galasa Community
 
-Galasa is an open-source project, under the Open Mainframe Project.
+Galasa is an open-source project, under the Open Mainframe Project. This Github page is to store the output of meeting minutes and agenda for Galasa TSC meetings.
 
-This Github page is to store the output of meeting minutes and agenda for Galasa TSC meetings.
+If you wish to submit an issue to be discussed, please submit here: https://github.com/galasa-dev/projectmanagement/issues
 
 ## Communication Channels
 
@@ -34,12 +34,7 @@ TSC Voting Members:
 - Petr Plavjanik
 - Roger Brooks
 - Michelle Harris
-- Dom Starkey - Alternate Voting Rep to Michelle
-
-<details>
-  <summary>TSC Non-Voting Members</summary>
-  Fiona Ampofo, Holly Hunt, Caroline McNamara
-</details>
+- Dom Starkey
 
 <details>
   <summary>TSC Emerti</summary>

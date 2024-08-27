@@ -1,4 +1,4 @@
-# Meeting Minutes for Galasa TSC 30th June 2024
+# Meeting Minutes for Galasa TSC 30th July 2024
 
 Recording: https://zoom.us/rec/share/yIYf3EnjLWVOz8cQ51o4R_gSTxJOa0e4s22dYJp56K8vcDkRvaC7tpTh9i6wlCuG.CcAFISTdRi-eDx8O
 

@@ -33,8 +33,7 @@ TSC Voting Members:
 - James Davies
 - Petr Plavjanik
 - Roger Brooks
-- Michelle Harris
-- Dom Starkey
+- Michelle Harris (Dom Starkey as alternative voting rep)
 
 <details>
   <summary>TSC Emerti</summary>

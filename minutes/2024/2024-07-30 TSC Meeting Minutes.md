@@ -12,18 +12,15 @@ Recording: https://zoom.us/rec/share/yIYf3EnjLWVOz8cQ51o4R_gSTxJOa0e4s22dYJp56K8
 ## Minutes
 
 Introduction and Updates
-* Jade Carino is leading the meeting due to Louise's absence.
-* Roadmap Discussion: The primary focus of the meeting is to discuss the Q3 roadmap and future plans for the project.
-* Terminology: There is a brief discussion about the terminology used for the project, with some suggestion to change from "ecosystem" to "server."
-* Roadmap Updates
+* Jade Carino is leading the meeting due to Louisa's absence.
+* The primary focus of the meeting is to discuss the Q3 roadmap and future plans for the project.
+* There is a brief discussion about the terminology used for the project, with some suggestion to change from "ecosystem" to "server."
 
 Security Enhancements
 * Implementing https instead of Http for enhanced security within the Kubernetes cluster.
 * Utilizing scanning technology like Dependable Bot and Snike to identify vulnerabilities.
 * Encrypting local secrets to protect sensitive information.
-* Infrastructure Improvements:
-* Migrating to a cloud-based infrastructure using a donated cloud account from the Linux Foundation.
-* Utilizing GitHub Actions for the build process to improve transparency and collaboration.
+* Infrastructure Improvements: Migrating to a cloud-based infrastructure using a donated cloud account from the Linux Foundation and utilizing GitHub Actions for the build process to improve transparency and collaboration.
 
 Functionality Expansion
 * Enhancing admin capabilities across the ecosystem.
@@ -36,7 +33,7 @@ Roadmap Timeline
 * Long-term goals include enhancing user interfaces and providing more advanced features.
 
 Discussion and Questions
-* Michelle has expressed an interest in using Glassa more extensively and appreciates the planned security enhancements.
+* Michelle has expressed an interest in using Galasa more extensively and appreciates the planned security enhancements.
 * Mike has provided additional details on the tagging feature for tests, which allows for more efficient testing.
 * Jade raised a question about the terminology used for the project and whether it should be updated.
 * Mike discussed the rationale behind using "server" instead of "ecosystem" and the potential implications for documentation.

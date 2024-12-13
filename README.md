@@ -25,8 +25,7 @@ To find the Galasa calendar, please click [here](https://lists.openmainframeproj
 TSC Voting Members:
 - Louisa Seers - Chairperson
 - Venkatauday Balabhadrapatruni
-- Savvas Kyriacou
-- Mike Cobbett
+- Mike Cobbett - Technical Lead
 - Will Yates
 - Eamonn Mansour
 - Jade Carino
@@ -38,6 +37,7 @@ TSC Voting Members:
 <details>
   <summary>TSC Emerti</summary>
 - Dharmendra Mahanty
+- Savvas Kyriacou
 </details>
 
 ## Contribute

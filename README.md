@@ -24,7 +24,6 @@ To find the Galasa calendar, please click [here](https://lists.openmainframeproj
 
 TSC Voting Members:
 - Louisa Seers - Chairperson
-- Venkatauday Balabhadrapatruni
 - Mike Cobbett - Technical Lead
 - Will Yates
 - Eamonn Mansour
@@ -32,12 +31,14 @@ TSC Voting Members:
 - James Davies
 - Petr Plavjanik
 - Roger Brooks
-- Michelle Harris (Dom Starkey as alternative voting rep)
+- Michelle Harris
+- Don Starkey
 
 <details>
   <summary>TSC Emerti</summary>
 - Dharmendra Mahanty
 - Savvas Kyriacou
+- Venkatauday Balabhadrapatruni
 </details>
 
 ## Contribute

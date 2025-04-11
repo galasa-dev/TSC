@@ -1,6 +1,6 @@
 # Galasa TSC Meeting 8th April 2025
 
-## Recording: [Here](https://zoom.us/rec/play/DJXztdC1tP9ekasCswyFhYI-RHAQtZNXFUb7K4RUH0_iwoYfM9jhboig2ySvT4W9-JqC5G5IOcqbchgA.Lz1FEiicDQpec-lb?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FuvnllMqt1VY86fugq7BGlrcBeAhWSsf_dqp1o2jZJGSGi0o0ac8i7XsCSOS4wkp4.i5MpuIKTg2hGaZjs](https://zoom.us/rec/share/98E5Tdi4i3o3DhiUCjWmMjGdS2rK3-y2nd0-MwWRGhvx-g8Vc_pkuNgfBPSP5zQJ.B4iRusCZCnNbDBQw)
+## Recording: [Here](https://zoom.us/rec/play/DJXztdC1tP9ekasCswyFhYI-RHAQtZNXFUb7K4RUH0_iwoYfM9jhboig2ySvT4W9-JqC5G5IOcqbchgA.Lz1FEiicDQpec-lb?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FuvnllMqt1VY86fugq7BGlrcBeAhWSsf_dqp1o2jZJGSGi0o0ac8i7XsCSOS4wkp4.i5MpuIKTg2hGaZjs](https://zoom.us/rec/share/98E5Tdi4i3o3DhiUCjWmMjGdS2rK3-y2nd0-MwWRGhvx-g8Vc_pkuNgfBPSP5zQJ.B4iRusCZCnNbDBQw))
 
 ## Agenda
 - Publicity & Conferences

@@ -34,12 +34,10 @@ TSC Voting Members:
 - Michelle Harris
 - Don Starkey
 
-<details>
-  <summary>TSC Emerti</summary>
+TSC Emerti
 - Dharmendra Mahanty
 - Savvas Kyriacou
 - Venkatauday Balabhadrapatruni
-</details>
 
 ## Contribute
 

@@ -24,20 +24,20 @@ To find the Galasa calendar, please click [here](https://lists.openmainframeproj
 
 TSC Voting Members:
 - Louisa Seers - Chairperson
-- Mike Cobbett - Technical Lead
-- Will Yates
 - Eamonn Mansour
 - Jade Carino
 - James Davies
-- Petr Plavjanik
 - Roger Brooks
-- Michelle Harris
-- Don Starkey
+- Michelle Harris (alternate voting member is Joe Sexton)
 
 TSC Emerti
 - Dharmendra Mahanty
 - Savvas Kyriacou
 - Venkatauday Balabhadrapatruni
+- Mike Cobbett
+- Petr Plavjanik
+- Dom Starkey
+- Will Yates
 
 ## Contribute
 

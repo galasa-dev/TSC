@@ -30,6 +30,11 @@ TSC Voting Members:
 - Roger Brooks
 - Michelle Harris (alternate voting member is Joe Sexton)
 
+Regular Members:
+- Ian Deeley
+- Jorge Olivos
+- Will Bartolomeo
+
 TSC Emerti
 - Dharmendra Mahanty
 - Savvas Kyriacou

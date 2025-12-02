@@ -27,6 +27,7 @@ TSC Voting Members:
 - Eamonn Mansour
 - Jade Carino
 - James Davies
+- Gerald Mitchell
 - Roger Brooks
 - Michelle Harris (alternate voting member is Joe Sexton)
 

@@ -23,7 +23,8 @@ To find the Galasa calendar, please click [here](https://lists.openmainframeproj
 ## TSC Members
 
 TSC Voting Members:
-- Louisa Seers - Chairperson
+- Will Bartolomeo - Chairperson
+- Louisa Denly
 - Eamonn Mansour
 - Jade Carino
 - James Davies
@@ -34,7 +35,6 @@ TSC Voting Members:
 Regular Members:
 - Ian Deeley
 - Jorge Olivos
-- Will Bartolomeo
 
 TSC Emerti
 - Dharmendra Mahanty
